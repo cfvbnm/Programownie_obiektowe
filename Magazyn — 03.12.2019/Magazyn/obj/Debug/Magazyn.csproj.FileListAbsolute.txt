@@ -1,0 +1,12 @@
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\bin\Debug\Magazyn.exe.config
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\bin\Debug\Magazyn.exe
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\bin\Debug\Magazyn.pdb
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form1.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form2.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.exe
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.pdb
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form3.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form4.resources
