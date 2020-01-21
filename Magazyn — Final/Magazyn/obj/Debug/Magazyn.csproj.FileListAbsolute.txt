@@ -1,0 +1,65 @@
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\bin\Debug\Magazyn.exe.config
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\bin\Debug\Magazyn.exe
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\bin\Debug\Magazyn.pdb
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form1.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form2.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.exe
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.pdb
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form3.resources
+C:\Users\Kamil\Desktop\ProjektPO\Magazyn\Magazyn\obj\Debug\Magazyn.Form4.resources
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\bin\Debug\Magazyn.exe.config
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\bin\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\bin\Debug\Magazyn.pdb
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.csprojAssemblyReference.cache
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.Form1.resources
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.Form2.resources
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.Form3.resources
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.Form4.resources
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.cache
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 05.12.2019\Magazyn\obj\Debug\Magazyn.pdb
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.csprojAssemblyReference.cache
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.Form1.resources
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.Form3.resources
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.Form4.resources
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.cache
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\obj\Debug\Magazyn.pdb
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\bin\Debug\Magazyn.exe.config
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\bin\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 18.12.2019\Magazyn\bin\Debug\Magazyn.pdb
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\bin\Debug\Magazyn.exe.config
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\bin\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\bin\Debug\Magazyn.pdb
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.csprojAssemblyReference.cache
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.Form1.resources
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.Form3.resources
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.Form4.resources
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.cache
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.pdb
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.csproj.CopyComplete
+C:\Users\pbrod\source\repos\Magazyn — 08.01.2020\Magazyn\obj\Debug\Magazyn.Form2.resources
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\bin\Debug\Magazyn.exe.config
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\bin\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\bin\Debug\Magazyn.pdb
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.csprojAssemblyReference.cache
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.Form1.resources
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.Form2.resources
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.Form3.resources
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.Form4.resources
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.cache
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.csproj.CopyComplete
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.exe
+C:\Users\pbrod\source\repos\Magazyn — 12.01.2020\Magazyn\obj\Debug\Magazyn.pdb
